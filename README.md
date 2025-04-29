@@ -465,6 +465,6 @@ This detailed example provides a clear guide on how to set up and run a comprehe
 
 ## License
 
-[FPA](LICENSE)
+[GPL-3.0 license](LICENSE)
 
 ---
